@@ -1,4 +1,4 @@
-# Healthcare App for Patients Record in Hospital
+# Patients Record for Hospital
 
 This project aims to measure how far I understand the application of Python programming by directly applying it to a transactional mini application. Working on this project enriched me with basic functions of Python programming, how it works and how to use it when applied to an integrated application. In this project, I will use a case study on managing patients record on App that commonly used in healthcare system such as hospital.  
 
