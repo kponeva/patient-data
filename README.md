@@ -7,15 +7,15 @@ Working on this project enriched me with basic functions of Python programming, 
 
 The application has 4 main features, I need to be able to create applications that meet or exceed the standard requirements that have been determined.
 
-*1. Create Feature*
+*1. Create Feature*. 
 I created a def function that can add data to the patients record based on user input that follows to the existing flow.
 
-*2. Read Feature*
+*2. Read Feature*  
 I created a def function that can display all data from the existing record or display certain data according to the user's choice in which the function runs according to the existing flow.
 
-*3. Update Feature*
+*3. Update Feature*  
 I created a def function that can update or change the value from the options on patients record selected by the user according to the existing flow.
 
-*4. Delete Feature*
+*4. Delete Feature*  
 I created a def function that can delete data from the patients record based on user input.
 
